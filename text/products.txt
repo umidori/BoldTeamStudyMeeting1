@@ -7,4 +7,3 @@ B	cracker	160
 C	apple	170
 C	melon	190
 C	orange	180
-
